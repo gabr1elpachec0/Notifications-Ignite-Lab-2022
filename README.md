@@ -2,7 +2,6 @@
 - Aplicação independente de banco de dados e destinada para o envio e recebimento de notificações. Criação com base no curso da Rocketseat.
 - Para rodar a aplicação é necessário a instalação do Node.js, NestJs e do ORM Prisma
 
-=======
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
