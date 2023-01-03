@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Ignite-Lab-2022
-Aplicação independente de banco de dados e destinada para o envio e recebimento de notificações. Criação com base no curso da Rocketseat.
-=======
-<<<<<<< HEAD
 # Ignite-Lab-2022
 Aplicação independente de banco de dados e destinada para o envio e recebimento de notificações. Criação com base no curso da Rocketseat.
 =======
